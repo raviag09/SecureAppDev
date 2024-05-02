@@ -8,7 +8,7 @@ Application security involves all the ways in which application vulnerabilities
 
 [[![Uploading Screen Shot 2024-05-02 at 12.32.04 AM.png…]()](https://github.com/raviag09/SecureAppDev/blob/main/Screen%20Shot%202024-05-02%20at%2012.34.47%20AM.png)]
 
-
+[[Screen%20Shot%202024-05-02%20at%2012.34.47%20AM.png|ALT TEXT]]
 
 
 
