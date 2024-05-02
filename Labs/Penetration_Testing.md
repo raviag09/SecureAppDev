@@ -6,14 +6,14 @@ applications, and networks.
  
 Industry scanning tools for penetration testing include:
 
-Nmap (Network Mapper): A powerful open-source network scanning tool used to discover hosts and services on a computer network.
-Metasploit: An advanced open-source penetration testing framework that helps security professionals assess vulnerabilities and manage security assessments.
-Burp Suite: A comprehensive set of tools for web application security testing, including scanning, crawling, and exploitation.
-Wireshark: A widely-used network protocol analyzer that allows security professionals to capture and analyze network traffic in real-time.
-Nessus: A vulnerability scanning tool that identifies security vulnerabilities, configuration issues, and malware in networks, systems, and applications.
-OpenVAS (Open Vulnerability Assessment System): An open-source vulnerability scanner that performs comprehensive vulnerability assessments and provides a centralized management interface.
-Acunetix: A web vulnerability scanner that automatically detects and reports web application vulnerabilities, including SQL injection, cross-site scripting (XSS), and insecure server configurations.
-SQLMap: A popular open-source penetration testing tool that automates the process of detecting and exploiting SQL injection vulnerabilities in web applications.
+1. Nmap (Network Mapper): A powerful open-source network scanning tool used to discover hosts and services on a computer network.
+2. Metasploit: An advanced open-source penetration testing framework that helps security professionals assess vulnerabilities and manage security assessments.
+3. Burp Suite: A comprehensive set of tools for web application security testing, including scanning, crawling, and exploitation.
+4. Wireshark: A widely-used network protocol analyzer that allows security professionals to capture and analyze network traffic in real-time.
+5. Nessus: A vulnerability scanning tool that identifies security vulnerabilities, configuration issues, and malware in networks, systems, and applications.
+6. OpenVAS (Open Vulnerability Assessment System): An open-source vulnerability scanner that performs comprehensive vulnerability assessments and provides a centralized management interface.
+7. Acunetix: A web vulnerability scanner that automatically detects and reports web application vulnerabilities, including SQL injection, cross-site scripting (XSS), and insecure server configurations.
+8. SQLMap: A popular open-source penetration testing tool that automates the process of detecting and exploiting SQL injection vulnerabilities in web applications.
 
 
 
